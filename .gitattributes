@@ -1,0 +1,29 @@
+* text=auto
+
+# Windows-facing scripts keep CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+*.ps1 text eol=crlf
+
+# Sources / configs normalized to LF in the repository
+*.cs text eol=lf
+*.csproj text eol=lf
+*.sln text eol=lf
+*.xml text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+LICENSE text eol=lf
+*.csv text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+# Binaries
+*.dll binary
+*.pdb binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.wav binary
+*.ogg binary
