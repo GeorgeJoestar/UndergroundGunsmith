@@ -3,7 +3,7 @@
   <ID>underground.gunsmith</ID>
   <Name>Underground Gunsmith / 地下枪匠许可证与定制订单</Name>
   <Author>GeorgeJoestar</Author>
-  <ModVersion>0.2.4</ModVersion>
+  <ModVersion>0.2.5</ModVersion>
   <Description>新增三级「地下枪匠暗号」：在「Wild 的人脉」的 Gunsmith 卡片购买，次日开门时摆上前台。放入展示柜后按原版武器许可证的概率吸引定制枪械订单顾客（下层/佣兵/上层），并在退休枪匠到访时按同级许可证计算其芯片进货概率（与原版证同级不重复计）。暗号不登记许可证，因此不会被治安部吊销，也不会把违禁枪械转为管制品——走私武器的一切原版后果保持不变。</Description>
   <GameVersions>
     <Version>0.46D</Version>
